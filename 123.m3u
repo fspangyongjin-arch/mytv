@@ -1148,37 +1148,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台频道",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
-#IHOT频道
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱喜剧.png" group-title="IHOT频道",iHOT 爱喜剧
-http://111.22.153.159:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱科幻.png" group-title="IHOT频道",iHOT 爱科幻
-http://111.22.153.159:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱院线.png" group-title="IHOT频道",iHOT 爱院线
-http://111.22.153.159:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱浪漫.png" group-title="IHOT频道",iHOT 爱浪漫
-http://111.22.153.159:35455/itv/2000000004000000035.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱悬疑.png" group-title="IHOT频道",iHOT 爱悬疑
-http://111.22.153.159:35455/itv/2000000004000000036.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱谍战.png" group-title="IHOT频道",iHOT 爱谍战
-http://111.22.153.159:35455/itv/2000000004000000038.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱历史.png" group-title="IHOT频道",iHOY 爱历史
-http://111.22.153.159:35455/itv/2000000004000000046.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱科学.png" group-title="IHOT频道",iHOT 爱科学
-http://111.22.153.159:35455/itv/2000000004000000047.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱幼教.png" group-title="IHOT频道",iHOT 爱幼教
-http://111.22.153.159:35455/itv/2000000004000000049.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱玩具.png" group-title="IHOT频道",iHOT 爱玩具
-http://111.22.153.159:35455/itv/2000000004000000053.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱赛车.png" group-title="IHOT频道",iHOT 爱赛车
-http://111.22.153.159:35455/itv/2000000004000000055.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱旅行.png" group-title="IHOT频道",iHOT 爱旅行
-http://111.22.153.159:35455/itv/2000000004000000056.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱奇谈.png" group-title="IHOT频道",iHOT 爱奇谈
-http://111.22.153.159:35455/itv/2000000004000000058.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱动漫.png" group-title="IHOT频道",iHOT 爱动漫
-http://111.22.153.159:35455/itv/2000000004000000059.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱体育.png" group-title="IHOT频道",iHOT 爱体育
-http://111.22.153.159:35455/itv/2000000004000000060.m3u8?cdn=hnbblive
 
 #NewTV频道
 #EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级电影.png" group-title="NewTV频道",NewTV 超级电影
